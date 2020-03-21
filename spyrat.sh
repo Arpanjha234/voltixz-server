@@ -27,6 +27,7 @@ read input
 if [ $input == 1]
 then
 echo "starting exploit"
+fi
 
 
 
