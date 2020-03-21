@@ -8,6 +8,10 @@ printf " \e[8;00m |____/|_|    |_|   |_| \_\/_/   \_\_|     \e[0m\n"
 printf "\n"
 printf " \e[1;77m v1.0 CODED BY ARPANJHA \e[0m \n"
 printf "\n"
+printf "\n"
+printf " (1)START EXPLOIT \e[0m \n"
+printf "\n"
+printf " (2)START EXPLOIT \e[0m \n"
 
 
 
