@@ -9,7 +9,7 @@ printf "\n"
 printf " \e[1;77m v1.0 CODED BY ARPANJHA \e[0m \n"
 printf "\n"
 printf "\n"
-printf " (1)vSTART EXPLOIT \e[0m \n"
+printf " (1) START EXPLOIT \e[0m \n"
 printf "\n"
 printf " (2) GRAB SMS \e[0m \n"
 printf "\n"
@@ -18,6 +18,9 @@ printf "\n"
 printf " (4) GRAB FONTCAM SNAP \e[0m \n"
 printf "\n" 
 printf " (5) GRAB CALL LOGS \e[0m \n"
+printf "\n" 
+printf "(6) GRAB TALK (RECORD VOICE)
+
 
 
 
