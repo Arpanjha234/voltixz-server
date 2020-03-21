@@ -9,9 +9,13 @@ printf "\n"
 printf " \e[1;77m v1.0 CODED BY ARPANJHA \e[0m \n"
 printf "\n"
 printf "\n"
-printf " (1)START EXPLOIT \e[0m \n"
+printf " (1)vSTART EXPLOIT \e[0m \n"
 printf "\n"
-printf " (2)START EXPLOIT \e[0m \n"
+printf " (2) GRAB SMS \e[0m \n"
+printf "\n"
+printf " (3) GRAB CONTACT \e[0m \n"
+printf "\n"
+printf " GRAB FONTCAM SNAP \e[0m \n"
 
 
 
