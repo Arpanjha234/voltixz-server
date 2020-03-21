@@ -11,4 +11,6 @@ printf " \e[1;77m v1.0 CODED BY ARPANJHA \e[0m \n"
 printf "\n"
 
 }
-apt install unstable-repo && apt install metasploit && pkg install openssh && apt install curl && apt install wget
+
+
+
