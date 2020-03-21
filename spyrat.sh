@@ -48,7 +48,6 @@ if [ $input == 1]
 
 then
 
-print "starting exploit"
+printf "starting exploit"
 
-fi
-
+fi 
