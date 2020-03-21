@@ -21,6 +21,14 @@ printf " (5) GRAB CALL LOGS \e[0m \n"
 printf "\n" 
 printf "(6) GRAB TALK (RECORD VOICE)
 
+#CHECKING USER INPUT
+
+read input
+if [ $input == 1]
+then
+echo "starting exploit"
+
+
 
 
 
