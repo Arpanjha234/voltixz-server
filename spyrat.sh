@@ -44,4 +44,3 @@ printf "(6) GRAB TALK (RECORD VOICE)
 
 read input
 
-
