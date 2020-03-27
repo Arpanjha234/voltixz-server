@@ -44,10 +44,4 @@ printf "(6) GRAB TALK (RECORD VOICE)
 
 read input
 
-if [ $input == 1]
 
-then
-
-printf "starting exploit"
-
-fi 
