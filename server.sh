@@ -26,7 +26,7 @@ php -S 127.0.0.1:3333 > /dev/null 2>&1 &
 
 sleep 1
 
-printf "\e[1;92m[\e[0m+\e[1;92m] Starting ajdevs server...\n"
+printf "\e[1;92m[\e[0m+\e[1;92m] Starting ⚡ voltixz server...\n"
 
 ./ngrok http 3333 > /dev/null 2>&1 &
 
