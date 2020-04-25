@@ -2,17 +2,14 @@
 
 ⚡ VOLTIXZ SERVER IS A TOOL CREATED BY ARPANJHA
    TO USE ANDROID SMARTPHONE AS A WEB SERVER
-   YOU CAN HOST MULTIPLE WEBSITES, WORDPRESS 
-   WEBSITE WITH ANY DOMAIN. BUT GENRALLY YOU
-   WILL GET A NGROK SUB DOMAIN.
-
+  
 # ALL IN ONE COMMAND TO INSTALL TOOL
 
 JUST COPY PASTE AND ENTER IT IN YOUR TEMRUX. 
 
-apt install git && git clone https://github.com/Arpanjha234/voltixz-server/ && cd voltixz-server
+                  apt install git && git clone https://github.com/Arpanjha234/voltixz-server/ && cd voltixz-server
 
-#DISCLAIMER
+# DISCLAIMER
 
 IF ANY KIND OF HARM CAUSED BY THIS THEN AUTHOR
 WILL NOT RESPONSIBLE.
